@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>风起海上</title>
   
-  <subtitle>不忘初心，砥砺前行</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <subtitle>忘初心，砥砺前行</subtitle>
+  <link href="biejixing.com/atom.xml" rel="self"/>
   
   <link href="https://biejixing.com/"/>
   <updated>2020-03-29T09:48:21.506Z</updated>
